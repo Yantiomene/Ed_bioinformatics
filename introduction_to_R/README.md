@@ -1,6 +1,6 @@
-#👋 Welcome, before you start
+# 👋 Welcome, before you start
 
-##📚 Module overview
+## 📚 Module overview
 R is a statistical programming language that is very effective for computation and high-level graphics. It is commonly used for data analytics and data science.
 
 We are going through five lessons in this module:
